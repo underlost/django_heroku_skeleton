@@ -1,0 +1,8 @@
+{
+  "name": "django_heroku_skeleton",
+  "description": "An easy-to-use standard project structure for a new Django project for use with Heroku.",
+  "image": "heroku/python",
+  "repository": "https://github.com/sembia/django_heroku_skeleton",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
